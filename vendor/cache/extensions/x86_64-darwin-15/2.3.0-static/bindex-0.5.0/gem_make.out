@@ -1,0 +1,15 @@
+current directory: /Users/Mac/dandywork/rails_projects/syachi_api/vendor/cache/gems/bindex-0.5.0/ext/bindex
+/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170429-72982-18hpzjv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Mac/dandywork/rails_projects/syachi_api/vendor/cache/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/Mac/dandywork/rails_projects/syachi_api/vendor/cache/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/Mac/dandywork/rails_projects/syachi_api/vendor/cache/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20170429-72982-hn9u3g/bindex
